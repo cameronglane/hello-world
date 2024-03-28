@@ -5,4 +5,4 @@
 
 void print_hello_world();
 
-#endif // HELLO_WORLD_H
+#endif  // HELLO_WORLD_H
